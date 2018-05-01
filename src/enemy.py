@@ -33,10 +33,10 @@ class SmallEnemy(pygame.sprite.Sprite):
         self.destroy_images = []
         self.destroy_images.extend(
             [
-                pygame.image.load("material/image/enemy1_down1.png"),
-                pygame.image.load("material/image/enemy1_down2.png"),
-                pygame.image.load("material/image/enemy1_down3.png"),
-                pygame.image.load("material/image/enemy1_down4.png")
+                pygame.image.load("material/image/0.png"),
+                pygame.image.load("material/image/1.png"),
+                pygame.image.load("material/image/2.png"),
+                pygame.image.load("material/image/3.png")
             ]
         )
 

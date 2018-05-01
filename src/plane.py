@@ -38,10 +38,11 @@ class OurPlane(pygame.sprite.Sprite):
         self.destroy_images = []
         self.destroy_images.extend(
             [
-                pygame.image.load(os.path.join(BASE_DIR, "material/image/hero_blowup_n1.png")),
-                pygame.image.load(os.path.join(BASE_DIR, "material/image/hero_blowup_n2.png")),
-                pygame.image.load(os.path.join(BASE_DIR, "material/image/hero_blowup_n3.png")),
-                pygame.image.load(os.path.join(BASE_DIR, "material/image/hero_blowup_n4.png")),
+                pygame.image.load(os.path.join(BASE_DIR, "material/image/bz3.png")),
+                pygame.image.load(os.path.join(BASE_DIR, "material/image/bz3.png")),
+                pygame.image.load(os.path.join(BASE_DIR, "material/image/bz3.png")),
+                pygame.image.load(os.path.join(BASE_DIR, "material/image/bz3.png")),
+
             ]
         )
 
