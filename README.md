@@ -15,4 +15,4 @@
 ```
 
 ## 如图
-![Image text](https://raw.githubusercontent.com/csrftoken/PlayPlane/master/material/play.)
+![Image text](https://raw.githubusercontent.com/csrftoken/PlayPlane/master/material/play.jpg)
